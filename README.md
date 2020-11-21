@@ -1,10 +1,7 @@
 # Machine Learning Project
-To Do: 
-- L1/L2 Regression for Logistic Polynomial 
-- Format with text blocks 
+To Do:  
+- Format with text blocks (While we write the report)
 - Format using data frame to make a table 
-- PCA 
-- FScore, Precision, Recall for Logistic 
 - Bar Graphs for C= 10, SVM
 If we have time: 
 - Neural Networks 
