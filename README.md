@@ -1,7 +1,7 @@
 # Machine Learning Project
 To Do:  
 - Format with text blocks (While we write the report)
-- Format using data frame to make a table 
-- Bar Graphs for C= 10, SVM
+- Bar Graphs (Comparing 4 algorithms: Logistic, SVM, PCA_Logistic, PCA_SVM)
+
 If we have time: 
 - Neural Networks 
