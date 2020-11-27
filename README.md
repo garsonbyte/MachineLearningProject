@@ -2,7 +2,7 @@
 To Do:  
 - ***Format with text blocks (While we write the report)
 - Bar Graphs (Comparing 4 algorithms: Logistic, SVM, PCA_Logistic, PCA_SVM) ->finished. 
-- ***Confusion matrices (on python) ->DID NOT DO YET!!!
+- ***Confusion matrices (on python) -> finished. 
 - ***Did we ever do linear regression with PCA? 
 Paper: 
 https://www.overleaf.com/1871767983rcmkbjwnhbnp
