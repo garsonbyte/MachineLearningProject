@@ -1,11 +1,13 @@
 # Machine Learning Project
 To Do:  
-- Format with text blocks (While we write the report)
-- Bar Graphs (Comparing 4 algorithms: Logistic, SVM, PCA_Logistic, PCA_SVM)
-- Confusion matrices (on python)
-
+- ***Format with text blocks (While we write the report)
+- Bar Graphs (Comparing 4 algorithms: Logistic, SVM, PCA_Logistic, PCA_SVM) ->finished. 
+- ***Confusion matrices (on python) ->DID NOT DO YET!!!
+- ***Did we ever do linear regression with PCA? 
 Paper: 
 https://www.overleaf.com/1871767983rcmkbjwnhbnp
+
+Tables are completed! 
     Tables: 
         Linear Regression: 
             - Overall (final) results
