@@ -10,6 +10,7 @@ Paper:
 https://www.overleaf.com/1871767983rcmkbjwnhbnp
 - Have not finished logistic regression 
 - Conclusion 
+---- FINISHED PAPER 
 
 Powerpoint: 
 - Have not started 
