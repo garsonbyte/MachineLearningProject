@@ -5,6 +5,7 @@ To Do:
 - ***Confusion matrices (on python) -> finished. 
 - ***Did we ever do linear regression with PCA? Nope. 
 
+For SVM, any c value above 10^3 does not work. 
 Paper: 
 https://www.overleaf.com/1871767983rcmkbjwnhbnp
 - Have not finished logistic regression 
@@ -33,3 +34,6 @@ Tables are completed!
             
 If we have time: 
 - Neural Networks 
+
+?????? How does PCA relate to overfitting? 
+- When we had 5 features, and added regularization it returned better results 
